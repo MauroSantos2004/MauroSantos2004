@@ -1,7 +1,7 @@
 ### Olá. Meu nome é Mauro Santos
 ## Sou aluno do Curso Ciências da Computação 2/8
 
-- <3 Apaixonado por Computação
+- ❤️ Apaixonado por Programação
 - 🌱 Estudante de Ciência da Computação 2/8
 <div align="center">
   <a href="https://github.com/MauroSantos2004">
@@ -28,7 +28,7 @@
 
 <div> 
   <a href="https://instagram.com/mauro_santos_2004" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "ms31012004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Mauro Santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mauro-santos-57402424a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
