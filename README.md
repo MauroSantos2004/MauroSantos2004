@@ -1,5 +1,5 @@
 ### Olá. Meu nome é Mauro Santos
-## Sou aluno do Curso Ciências da Computação 2/8
+## Sou aluno do Curso Ciências da Computação 3/8
 
 - ❤️ Apaixonado por Programação
 - 🌱 Estudante de Ciência da Computação 2/8
