@@ -1,8 +1,6 @@
 ### Olá. Meu nome é Mauro Santos
-## Sou aluno do Curso Ciências da Computação 3/8
 
 - ❤️ Apaixonado por Programação
-- 🌱 Estudante de Ciência da Computação 3/8
 <div align="center">
   <a href="https://github.com/MauroSantos2004">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauroSantos2004&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
